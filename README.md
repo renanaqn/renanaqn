@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Renan! 🚀
 
-<!--
-**renanaqn/renanaqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **estudante de Engenharia de Computação** na **UFRN** e pesquisador de Iniciação Científica CNPq. Meus interesses são em Sistemas Embarcados, Aeroespacial e Ciência de Dados.
 
-Here are some ideas to get you started:
+🔭 **Atualmente:** 
+- Pesquisador IC desenvolvendo o **CubeSat PotyraSat**, focado no sensoriamento remoto de biomas da Caatinga usando processamento embarcado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack:**
+- **Sistemas Embarcados** C/C++ (Arduino/ESP/STM), VHDL, FreeRTOS, PlatformIO;
+- **Data Science and AI/ML:** Python, TensorFlow, Keras, Scikit-Learn, Pandas
+- **Hardware Design (PCB & CAD):** KiCad, Fusion360, EasyEDA;
+
+---
+[LinkedIn](https://www.linkedin.com/in/renanaqn/) • [Email](mailto:renanap99@gmail.com)
+
