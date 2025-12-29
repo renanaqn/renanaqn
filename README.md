@@ -3,7 +3,7 @@
 Sou **estudante de Engenharia de Computação** na **UFRN** e pesquisador de Iniciação Científica CNPq. Meus interesses são em Sistemas Embarcados, Aeroespacial e Ciência de Dados.
 
 🔭 **Atualmente:** 
-- Pesquisador IC desenvolvendo o **CubeSat PotyraSat**, focado no sensoriamento remoto de biomas da Caatinga usando processamento embarcado.
+- Pesquisador IC desenvolvendo o **CubeSat PotyraSat**, focado no imageamento remoto de biomas do Nordeste usando processamento embarcado.
 
 🛠️ **Tech Stack:**
 - **Sistemas Embarcados** C/C++ (Arduino/ESP/STM), VHDL, FreeRTOS, PlatformIO;
